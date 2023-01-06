@@ -265,8 +265,13 @@ if __name__ == '__main__':
     range_test()
     performance_test()
     
-    
-    
+  
+  
+  
+  
+  
+following are "Visualize the time performance between k-d tree method and naive method"    
+---------------------------------------------------------------------------    
 import matplotlib.pyplot as plt
 import time
 
